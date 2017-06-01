@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id		  = "phonegap.example"
+	version	  = "1.0.0">
+	
+<name> PORCENTATOR </name>
+<icon src = "src/img/logo.png" gap:platform="android" gap:density="ldpi"/>
+<gap:splash src="cargando.gif" gap:platform="android" gap:density="ldpi"/>
+<gap:splash src="cargando.gif" gap:platform="android" gap:density="mdpi"/>
+<gap:splash src="cargando.gif" gap:platform="android" gap:density="hdpi"/>
+<gap:splash src="cargando.gif" gap:platform="android" gap:density="xhdpi"/>
+<description>
+La app más sencilla para realizar porcentajes de manera rapida. Actualizada, incluye lista de los IVA aplicables de España, Francia, Portugal, Italia y Alemania. 
+</description>
+<preference name="permission"  value="none"/>
+<author href="https://sensationimage.com/" email="si@sensationimage.com">
+Sensation Image
+</author>
+
+</widget>
